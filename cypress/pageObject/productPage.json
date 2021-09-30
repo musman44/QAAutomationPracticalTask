@@ -1,0 +1,17 @@
+{
+    "menuItem": "a[title='Women']",
+    "productAvailable": ".ajax_block_product",
+    "inStock": ".available-now",
+    "viewProduct": "a[title='View']",
+    "quantity": "#quantity_wanted",
+    "selectSize": "select",
+    "blueColour": "#color_14",
+    "orangeColour": "#color_13",
+    "prodAddedSuccessfully": "h2",
+    "addToCartButton": "#add_to_cart",
+    "proceedToCheckouButton": "a[title='Proceed to checkout']",
+    "cartDescription": ".cart_description",
+    "cartQuantity": ".cart_quantity_input",
+    "productPrice": "#total_product",
+    "deleteProduct": ".cart_quantity_delete"    
+}

@@ -1,0 +1,13 @@
+{
+    "emailAddress": "#email_create",
+    "createAccountButton": "#SubmitCreate",
+    "firstName": "#customer_firstname",
+    "lastName" : "#customer_lastname",    
+    "password": "#passwd",
+    "address": "#address1",
+    "city": "#city",
+    "state": "#id_state",
+    "zip": "#postcode",
+    "phone": "#phone_mobile",
+    "regiserButton": "#submitAccount"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cypress-Assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:run:firefox": "cypress run --browser firefox"
+  },
+  "author": "Usman Ishaque",
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
